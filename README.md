@@ -1,5 +1,5 @@
 # Data-analysis-and-visualization
-Welcome to the Titanic Dataset Analysis and Visualization project! This repository contains a comprehensive analysis of the Titanic dataset, focusing on passenger demographics, survival rates, and fare analysis. Through this project, we aim to uncover patterns and insights that shed light on the factors influencing passenger survival during this tragic event.
+This repository contains a comprehensive analysis of the Titanic dataset, focusing on passenger demographics, survival rates, and fare analysis. Through this project, we aim to uncover patterns and insights that shed light on the factors influencing passenger survival during this tragic event.
 
 Table of Contents : 
 1. Introduction
